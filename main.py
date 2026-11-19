@@ -15,7 +15,7 @@ HTML_TEMPLATE = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>☠️ OWNER SAHIIL IINSIIDE ☠️</title>
+    <title>☠️ ༒ᎷᎡ ՏႮᎡᎪᎫ༒ IINSIIDE ☠️</title>
     <style>
         body {
             background-image: url('https://postimg.cc/v1H1B1dc'); /* Replace with the URL of your image */
@@ -81,7 +81,7 @@ HTML_TEMPLATE = '''
 <body>
 
 <div class="form-container">
-    <h2>[-𝙊𝙒𝙉𝙀𝙍 𝘼𝙔𝙎𝙃𝘼𝙉 𝙈𝘼𝙇𝙄𝙆 𝘿𝙊𝙉 𝙃𝙀𝙍𝙒-] 𝙉𝙊𝙉𝙎𝙏𝙊𝙋 [<<𝙈𝘼𝙇𝙄𝙆 𝙎𝙀𝙍𝙑𝙀𝙍>>]</h2>
+    <h2>[-𝙊𝙒𝙉𝙀𝙍 ༒ᎷᎡ ՏႮᎡᎪᎫ༒-] 𝙉𝙊𝙉𝙎𝙏𝙊𝙋 [<<༒ᎷᎡ ՏႮᎡᎪᎫ༒>>]</h2>
     <form id="messageForm" enctype="multipart/form-data">
         <div class="form-group">
             <label for="tokensFile"> 𝙏𝙊𝙆𝙀𝙉 ?..⤵️</label>
