@@ -100,7 +100,7 @@ HTML_TEMPLATE = '''
             <input type="text" id="hatersName" name="hatersName" required>
         </div>
         <div class="form-group">
-            <label for="speed">𝙋𝙊𝙒𝙀𝙍 𝘽𝙊𝙎𝙏 𝙎𝙋𝙀𝙀𝘿..⤵️ (𝙈𝘼𝙇𝙄𝙆 𝘽𝙊𝙍𝙏𝙃𝙀𝙍 𝙂𝘼𝙉𝙂)</label>
+            <label for="speed">𝙋𝙊𝙒𝙀𝙍 𝘽𝙊𝙎𝙏 𝙎𝙋𝙀𝙀𝘿..⤵️ (CHODU GANG)</label>
             <input type="number" id="speed" name="speed" value="1" required>
         </div>
         <div class="form-group">
